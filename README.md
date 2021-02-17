@@ -13,6 +13,5 @@ ranking bots, and more! And all ran by Node.Js, discord.js, and for roblox, Nobl
   Yes, and its through Robux, Discord Bot is R$200. Roblox to Discord Bot is R$1250.
 
 # Social Links
-<form method="get" action="/page2">
-    <button type="submit">Continue</button>
-</form>
+RelTech Offical Discord: https://discord.gg/3gu47cTsU3
+Roblox Group: (COMMING SOON)
